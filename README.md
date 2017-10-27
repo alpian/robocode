@@ -23,6 +23,7 @@ To add your robot run
 `./gradlew jar`
 
 Then in Robocode:
+1.  Click on options in the menu, then `Clean robot cache`
 1.  Click on Robot in the menu
 1.  Import Robot or team
 1.  Then choose your jar in build/libs/robocode.jar
